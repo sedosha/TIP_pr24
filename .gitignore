@@ -12,7 +12,6 @@
 *.out
 
 # Go workspace
-go.sum
 
 # IDE
 .vscode/
